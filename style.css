@@ -20,7 +20,6 @@ section {
   background: rgb(4, 165, 209);
 
   margin: auto;
-  padding: auto;
 
 }
 
@@ -308,7 +307,6 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  background-color: (0, 0, 0, 0);
   padding: 20px;
 }
 
