@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(249, 249, 249);
+  background-color: rgb(255, 196, 190);
   margin: auto;
 
 
@@ -323,7 +323,6 @@ input[type=submit]:hover {
 
 }
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 
 * {
   font-family: Roboto;
@@ -406,8 +405,6 @@ input[type=submit]:hover {
 
 /* Media Queries */
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
 
 *,
 *:before,
